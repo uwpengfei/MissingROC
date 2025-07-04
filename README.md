@@ -16,3 +16,4 @@ The following files include the code for data generation, the implementation of 
 (7) seed.txt: Contains 1000 random seeds, with each seed used to generate data for one replication.
 
 
+For more detials on each above method, please refer to Hu, D*, Yu, T and Li, P (2025) Receiver operating characteristic curve analysis with non-ignorable missing disease status. Canadian Journal of Statistics,Accepted.    
